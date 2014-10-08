@@ -1,0 +1,10 @@
+('/home/sun/Downloads/pyins/pyinstaller-2.0/teditor/build/pyi.linux2/teditor/teditor',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ True,
+ 0,
+ 1412781196)
